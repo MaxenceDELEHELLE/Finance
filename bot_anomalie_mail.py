@@ -1,4 +1,4 @@
-# Ce bot envoie une alerte mail via le processus SMTP. K=Le bot ci dessous n'est
+# Ce bot envoie une alerte mail via le processus SMTP. Le bot ci dessous n'est
 # configuré que pour des adresses mail receveur Gmail. Pour toute autre adresse mail
 # se referer au protocole SMTP de l'adresse mail specifique
 
